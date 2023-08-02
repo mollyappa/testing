@@ -1,4 +1,3 @@
-# NLP AI - Natural Language Processing with Artificial Intelligence
 
 ## Table of Contents
 
