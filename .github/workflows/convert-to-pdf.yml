@@ -19,7 +19,7 @@ jobs:
       ACTIONS_RUNNER_DEBUG: true
     steps:
       - uses: actions/checkout@v2
-      - uses: mollyappa/pdf-maker@v2.1
+      - uses: mollyappa/pdf-maker@v2.2
         with:
           input_dir: /
           output_dir: pdfs
