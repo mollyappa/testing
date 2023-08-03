@@ -14,7 +14,7 @@ on:
 jobs:
   converttopdf:
     name: Build PDF
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       ACTIONS_RUNNER_DEBUG: true
     steps:
