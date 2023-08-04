@@ -28,7 +28,7 @@ jobs:
           output_dir: pdfs
           images_dir: media
           image_import: ./media
-          output_name: file_name_var
+          output_name: 
           
       - uses: actions/upload-artifact@v1
         with:
