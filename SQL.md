@@ -25,7 +25,7 @@ FROM table_name
 WHERE condition;
 ```
 
-### 2. INSERT
+### 2.INSERT
 
 The `INSERT` statement is used to add new records to a table.
 

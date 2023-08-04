@@ -60,7 +60,7 @@ NER is a technique that identifies and classifies named entities (e.g., names of
 
 Sentiment analysis determines the emotional tone of a piece of text, indicating whether it's positive, negative, or neutral.
 
-### 3.5 Machine Translation <a name="machine-translation"></a>
+### 3.5Machine Translation <a name="machine-translation"></a>
 
 Machine translation uses NLP AI models to automatically translate text from one language to another.
 
