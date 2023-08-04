@@ -31,7 +31,7 @@ jobs:
           image_import: ./media
           # Default is true, can set to false to only get PDF files
           build_html: false
-          #output_name: file_name_var
+          output_name: file_name_var
           
       - uses: actions/upload-artifact@v1
         with:
