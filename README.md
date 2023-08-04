@@ -92,7 +92,7 @@ NLP AI faces several challenges, including:
 
 | Version | Date       | Author           | Changes Made                    |
 | ------- | ---------- | ---------------- | -------------------------------- |
-| 1.0     | 2023-08-02 | Mollyappaa      | Initial creation of the document |
+| 1.0     | 2023-08-02 | Mollbyappaa      | Initial creation of the document |
 | 1.1     | 2023-08-03 | Mollyappa      | Added images and revised content |
 | 1.2     | 2023-08-04 | Mollyappa1      | Incorporated feedback from peers |
 
