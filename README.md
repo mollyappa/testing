@@ -72,7 +72,7 @@ Rule-based models use predefined linguistic rules to process and understand natu
 
 ### 4.2 Statistical Models <a name="statistical-models"></a>
 
-Statistical models utilize probabilistic methods to analyze language data and make predictions.
+Statistical models utilize probabilistic methods to analyze language data and make predictions
 
 ### 4.3 Deep Learning Models <a name="deep-learning-models"></a>
 
