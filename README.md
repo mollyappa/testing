@@ -60,7 +60,7 @@ NER is a technique that identifies and classifies named entities (e.g., names of
 
 Sentiment analysis determines the emotional tone of a piece of text, indicating whether it's positive, negative, or neutral.
 
-### 3.5 Machine Translation <a name="machine-translation"></a>
+### 3.5Machine Translation <a name="machine-translation"></a>
 
 Machine translation uses NLP AI models to automatically translate text from one language to another.
 
@@ -72,7 +72,7 @@ Rule-based models use predefined linguistic rules to process and understand natu
 
 ### 4.2 Statistical Models <a name="statistical-models"></a>
 
-Statistical models utilize probabilistic methods to analyze language data and make predictions.
+Statistical models utilize probabilistic methods to analyze language data and make predictions
 
 ### 4.3 Deep Learning Models <a name="deep-learning-models"></a>
 
@@ -92,9 +92,9 @@ NLP AI faces several challenges, including:
 
 | Version | Date       | Author           | Changes Made                    |
 | ------- | ---------- | ---------------- | -------------------------------- |
-| 1.0     | 2023-08-02 | Mollyappa      | Initial creation of the document |
-| 1.1     | 2023-08-03 | Mollyappa1      | Added images and revised content |
-| 1.2     | 2023-08-04 | Mollyappa      | Incorporated feedback from peers |
+| 1.0     | 2023-08-02 | Mollbyappaxdxw      | Initial creation of the document |
+| 1.1     | 2023-08-03 | Mollyaxsppa      | Added images and revised content |
+| 1.2     | 2023-08-04 | Mosllyapvpa1      | Incorporated feedback from peers |
 
 ## 7. Conclusion <a name="conclusion"></a>
 
