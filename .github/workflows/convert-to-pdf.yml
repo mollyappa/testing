@@ -25,11 +25,12 @@ jobs:
       - uses: mollyappa/pdf-maker@main
         with:
           input_dir: /
-          output_dir: pdfs
+          output_dir: / # pdfs
           images_dir: media
           image_import: ./media
           output_name: 
-          build_html: true
+          table_of_contents: true
+          build_html: #default false
       - uses: actions/upload-artifact@v1
         with:
           name: pdf
