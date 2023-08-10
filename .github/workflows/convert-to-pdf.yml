@@ -31,6 +31,7 @@ jobs:
           output_name: 
           table_of_contents: true
           build_html: #default false
+          keep_original_name: true
       - uses: actions/upload-artifact@v1
         with:
           name: pdf

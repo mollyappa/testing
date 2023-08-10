@@ -22,7 +22,7 @@
 
 ## 1. Introduction <a name="introduction"></a>
 
-Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on enabling machines to understand, interpret, and generate human language. NLP AI systems have become crucial in various applications due to their ability to process and analyze big amounts of textual data.
+Natural Language Processing (NLP) is a branch of artificial intelligence that focuses on enabling machines to understand, interpret, and generate human language. NLP AI systems have become crucial in various applications due to their ability to process and analyze vast amounts of textual data.
 
 ![](./media/Natural-Language-ProcessinG.png)
 
